@@ -1,0 +1,33 @@
+{
+  "name": "bjvalmaseda.com",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"dev": "next",
+	"build": "next build",
+	"start": "next start",
+   	 "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjvalmaseda92/bjvalmaseda.com.git"
+  },
+  "keywords": [],
+  "author": "Bárbaro Javier Valmaseda <hello@bjvalmaseda.com> (https://bjvalmaseda.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjvalmaseda92/bjvalmaseda.com/issues"
+  },
+  "homepage": "https://github.com/bjvalmaseda92/bjvalmaseda.com#readme",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.11",
+    "@types/react": "^18.0.17",
+    "typescript": "^4.7.4"
+  }
+}
